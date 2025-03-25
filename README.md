@@ -8,6 +8,8 @@ KSU-NEXT编译源码来自Numbersf(https://github.com/Numbersf/Action-KernelSU-N
 
 SukiSU编译项目来自aziwd(https://github.com/aziwd/Action_OnePlus_MKSU_SUSFS)
 
-由于fork项目aziwd后无法再次fork属于Numbersf的项目，故不显示来自Numbersf的fork，望理解。
+由于fork属于aziwd的仓库后无法再次fork属于Numbersf的仓库，故不是故意不显示来自Numbersf的fork，望理解。
+
+再次感谢两位大佬的代码及修正！！！
 
 此项目为自用，请勿传播！！
